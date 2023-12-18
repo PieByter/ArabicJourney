@@ -13,22 +13,25 @@ of education while giving fun atmosphere at the same time.
 ## UI Design
 
 ### Home Page
-![alt text](https://github.com/killuazoldyckk/ArabicJourney/blob/master/Screenshot%20UI/Screen%20Shot%202023-07-09%20at%2000.39.20.png?raw=true)
+![alt text](https://github.com/Pieter-T-211401015/ArabicJourney/blob/df5b98886199ef427f83b176263b4bdaffbfe2ff/Screenshot%20UI/Screenshot%20(1).png)
 
 ### Category Selection Page
-![alt text](https://github.com/killuazoldyckk/ArabicJourney/blob/master/Screenshot%20UI/Screen%20Shot%202023-07-09%20at%2000.39.33.png?raw=true)
+![alt text](https://github.com/Pieter-T-211401015/ArabicJourney/blob/df5b98886199ef427f83b176263b4bdaffbfe2ff/Screenshot%20UI/Screenshot%20(2).png)
 
 ### Introduction Interface and Tutorial
-![alt text](https://github.com/killuazoldyckk/ArabicJourney/blob/master/Screenshot%20UI/Screen%20Shot%202023-07-09%20at%2000.39.40.png?raw=true)
+![alt text](https://github.com/Pieter-T-211401015/ArabicJourney/blob/df5b98886199ef427f83b176263b4bdaffbfe2ff/Screenshot%20UI/Screenshot%20(3).png)
 
-![alt text](https://github.com/killuazoldyckk/ArabicJourney/blob/master/Screenshot%20UI/Screen%20Shot%202023-07-09%20at%2000.39.52.png?raw=true)
+![alt text](https://github.com/Pieter-T-211401015/ArabicJourney/blob/df5b98886199ef427f83b176263b4bdaffbfe2ff/Screenshot%20UI/Screenshot%20(4).png)
 
 ### Learning Session
-![alt text](https://github.com/killuazoldyckk/ArabicJourney/blob/master/Screenshot%20UI/Screen%20Shot%202023-07-09%20at%2000.40.07.png?raw=true)
+![alt text](https://github.com/Pieter-T-211401015/ArabicJourney/blob/df5b98886199ef427f83b176263b4bdaffbfe2ff/Screenshot%20UI/Screenshot%20(5).png)
 
 ### Quiz Session
-![alt text](https://github.com/killuazoldyckk/ArabicJourney/blob/master/Screenshot%20UI/Screen%20Shot%202023-07-09%20at%2000.40.16.png?raw=true)
+![alt text](https://github.com/Pieter-T-211401015/ArabicJourney/blob/df5b98886199ef427f83b176263b4bdaffbfe2ff/Screenshot%20UI/Screenshot%20(6).png)
 
-## Quiz Result
-![alt text](https://github.com/killuazoldyckk/ArabicJourney/blob/master/Screenshot%20UI/Screen%20Shot%202023-07-09%20at%2000.40.42.png?raw=true)
+### Quiz Result
+![alt text](https://github.com/Pieter-T-211401015/ArabicJourney/blob/df5b98886199ef427f83b176263b4bdaffbfe2ff/Screenshot%20UI/Screenshot%20(7).png)
+
+### Quiz Replay
+![alt text](https://github.com/Pieter-T-211401015/ArabicJourney/blob/df5b98886199ef427f83b176263b4bdaffbfe2ff/Screenshot%20UI/Screenshot%20(8).png)
 
