@@ -6,7 +6,7 @@ category.
 
 ## Target User
 
-We target this web application primarly for kids at 4-14 age who did not have any background on learning 'Arabic. We focus on words or categories that close to 
+We target this web application primarly for kids at 4 - 12 age who did not have any background on learning 'Arabic. We focus on words or categories that close to 
 their daily life. Therefore, for those who outside our primarly target user still feel the convenient of our system since we focus on highlighting the content 
 of education while giving fun atmosphere at the same time.
 
